@@ -1,0 +1,25 @@
+1.use html special character.eg-&mdash
+
+2.orange underline after the heading comes from after pseudo class.
+
+3.html element FIGURE
+    FIGURE IS A CONTAINER WHICH CAN CONTAIN IMAGE AND A CAPTION FOR THE IMAGE.
+    
+4.when using NORMALIZE.CSS file,set properties like margin,width,padding for parent container and each of 
+    the child containers(sub-classes,ids of the classes inside the main class)
+
+transition property is used NOT with hover but WITH the ATTRIBUTE HOVER is used for
+
+we use the display property as "BLOCK" when we want the element to force a LINE-BREAK
+
+To change color of HTML SPECIAL CHARACTERS:
+    <span style="color:#223881">&bull;</span> 
+    
+    
+    
+    
+    
+        
+a,b,e,k,g
+plane,user/androoid contact,university,museum
+&ordm;
